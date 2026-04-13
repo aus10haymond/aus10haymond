@@ -50,4 +50,3 @@ capstone presenting growth findings to senior leadership, and validated payment 
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/austenhaymond)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/aus10haymond)
