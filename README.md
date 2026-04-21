@@ -11,7 +11,7 @@ I gravitate toward ML pipelines, LLM integration, and tools that automate real d
 ## 🔨 Featured Projects
 
 - **[baseball-analytics](https://github.com/aus10haymond/baseball-analytics)**: MLB analytics monorepo: XGBoost outcome models trained on 2M+ Statcast plate appearances, a fantasy lineup decision engine, and a 5-agent MLOps orchestration system with automated retraining and drift detection
-- **[car_search](https://github.com/aus10haymond/car_search)**: Scheduled Carvana scraper that searches for target SUV listings, scores and ranks results by value using financial modeling and depreciation estimates, and delivers email summaries with CSV attachments
+- **[autospy](https://github.com/aus10haymond/autospy)**: Scheduled online car sales scraper that searches for target vehicle listings, scores and ranks results by value using financial modeling and depreciation estimates, and delivers email summaries with CSV attachments
 - **[log-narrator](https://github.com/solivertech/log-narrator)**: C++17 log analysis engine that parses heterogeneous logs, reconstructs distributed execution timelines, and generates structured root cause reports for crash loops, retry cascades, and post-deploy error spikes
 
 ---
